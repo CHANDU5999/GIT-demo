@@ -1,2 +1,0 @@
-username = CHANDU5999
-password = Seltos@5999
