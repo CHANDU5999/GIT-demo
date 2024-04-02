@@ -1,4 +1,4 @@
 hello worrld !!  
-take input from Black Wolf
+take input from Black 
 add the values 
-submit data to the database
+submit data to the database 
