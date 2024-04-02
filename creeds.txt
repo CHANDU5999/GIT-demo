@@ -1,4 +1,4 @@
 username = CHANDU5
-password = wolf@5
+password = wolfire
 i am jaffa
 you are aslo jaffa
